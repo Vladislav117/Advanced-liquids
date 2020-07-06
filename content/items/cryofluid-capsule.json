@@ -1,0 +1,1 @@
+{"name": "Cryofluid capsule", "type": "material", "description": "[cyan]Universal liquid capsule[white] with [#87ceeb]cryofluid", "hardness": 1.0, "cost": 2.0, "color": "#87ceeb", "flammability": 0, "explosiveness": 0, "radioactivity": 0.0, "alwaysUnlocked": false}

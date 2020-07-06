@@ -1,0 +1,1 @@
+{"name": "Capsule", "type": "material", "description": "[cyan]Universal liquid capsule[white]. Can contains any [red]standart[cyan] liquid.", "hardness": 1.0, "cost": 2.0, "color": "#d6eef9", "flammability": 0.0, "explosiveness": 0.0, "radioactivity": 0.0, "alwaysUnlocked": false}
